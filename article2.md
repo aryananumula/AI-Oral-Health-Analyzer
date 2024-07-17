@@ -1,6 +1,7 @@
 ## Why AI art is inherently bad.
 ![image](https://github.com/user-attachments/assets/05e5270a-14f3-4839-a33c-a3b33f3fa038)
-_image from stable diffusion_
+
+_Image from stable diffusion_
 AI art has surged in popularity, captivating audiences with its ability to generate stunning visuals in seconds. However, there are compelling reasons why AI art may never truly reach the heights of "good" art.
 
 Art is inherently tied to human experience and emotion. While AI can mimic styles and generate aesthetically pleasing images, it lacks the ability to convey genuine feelings. Great art often reflects the artist’s personal journey, struggles, and triumphs—elements that AI simply cannot replicate.
