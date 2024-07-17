@@ -13,4 +13,4 @@ AI art is fundamentally rooted in existing data, leading to a tendency for homog
 
 Art fosters connection and dialogue among individuals. The stories behind artworks and the experiences of the creators enrich the viewing experience. AI art, created without human interaction or insight, may fail to engage audiences on a personal level, leading to a disconnect that diminishes its impact.
 
-While models from companies like [Stability AI](https://stability.ai/) is getting better, it will never reach the elvel of true art.
+While models from companies like [Stability AI](https://stability.ai/) is getting better, it will never reach the level of true art.
