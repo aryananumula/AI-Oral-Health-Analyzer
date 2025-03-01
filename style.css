@@ -1,4 +1,4 @@
-*,:after,:before {
+*,:after,:before { 
     box-sizing: border-box;
     border: 0 solid #e5e7eb
 }
