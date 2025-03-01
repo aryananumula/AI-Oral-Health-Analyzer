@@ -1,2 +1,2 @@
-# AI Oral Analyzer Project
+# AI Oral Health Analyzer Project
 trust
